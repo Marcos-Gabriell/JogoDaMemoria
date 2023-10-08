@@ -8,3 +8,7 @@ Este é um projeto simples de um jogo da memória desenvolvido em HTML, CSS e Ja
 ## Como Jogar
 
 1. **Clone o Repositório:** Comece clonando este repositório em seu computador usando o seguinte comando no Git:
+
+2.Abra em sua IDEA
+
+3.Execute em seu navegador
