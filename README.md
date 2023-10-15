@@ -1,4 +1,4 @@
-# Jogo da Memória
+# Jogo da Memória para estudos 
 
 Este é um projeto simples de um jogo da memória desenvolvido em HTML, CSS e JavaScript. O jogo é uma ótima maneira de exercitar sua memória e se divertir ao mesmo tempo.
 
