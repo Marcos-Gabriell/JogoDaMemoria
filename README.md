@@ -11,7 +11,6 @@ Este é um projeto simples de um jogo da memória desenvolvido em HTML, CSS e Ja
    ```sh
    git clone https://github.com/Marcos-Gabriell/JogoDaMemoria.git
 
-
 2.Abra em sua IDEA
 
 3.Execute em seu navegador
