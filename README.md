@@ -9,7 +9,7 @@ Este é um projeto simples de um jogo da memória desenvolvido em HTML, CSS e Ja
 
 1. Clone este repositório para o seu sistema local:
    ```sh
-   https://github.com/Marcos-Gabriell/JogoDaMemoria.git
+   git clone
 
 
 2.Abra em sua IDEA
