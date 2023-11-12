@@ -14,3 +14,5 @@ Este é um projeto simples de um jogo da memória desenvolvido em HTML, CSS e Ja
 2.Abra em sua IDEA
 
 3.Execute em seu navegador
+
+4.Se divirta joogando.
