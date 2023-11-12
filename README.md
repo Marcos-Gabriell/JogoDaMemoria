@@ -9,7 +9,7 @@ Este é um projeto simples de um jogo da memória desenvolvido em HTML, CSS e Ja
 
 1. Clone este repositório para o seu sistema local:
    ```sh
-   git clone https://github.com/Marcos-Gabriell/ConversorDeTemperatura.git
+   https://github.com/Marcos-Gabriell/JogoDaMemoria.git
 
 
 2.Abra em sua IDEA
